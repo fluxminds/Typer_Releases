@@ -1,2 +1,3 @@
 # Typer_Releases
-The releases of Typer
+
+v1.0.0 Initial Release.
